@@ -1,0 +1,35 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.colorBox {
+  height: 300px;
+  width: 400px;
+  border-radius: 25px;
+}
+
+.wrongAnswer {
+  font-family: poor story;
+  font-weight: bold;
+  font-size: 25px;
+  color: red;
+  text-align: center;
+}
+
+button {
+  border-radius: 25px;
+  margin: 10px 10px 0 10px;
+  font-size: 22px;
+  font-family: poor story;
+  font-weight: bold;
+  background-color: #b6b6b4;
+  border: none;
+}
+
+h2 {
+  font-family: poor story;
+  font-weight: bold;
+}
